@@ -1,0 +1,31 @@
+
+.calc{
+  width: 320px;
+  margin: 100px auto;
+  
+}
+.answer{
+  background-color: #e2e2e2;
+  padding: 10px;
+  font-size: 35px;
+  width: 295px;
+  height: 45px;
+  text-align: right;
+  border: 3px solid black;
+
+}
+.button{
+  background-color: black;
+  width: 80px;
+  height: 80px;
+  color: white;
+  font-size: 30px;
+  border: 1px solid gold;
+  float:left;
+}
+.button1{
+  width: 160px;
+}
+body{
+  background-color: #C0C0C0;
+}
